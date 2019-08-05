@@ -1,4 +1,3 @@
 # drone-nodejs-example
 node.js example for Drone CI/CD \
-test build 
-# nodejs_test
+test build
